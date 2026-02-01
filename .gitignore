@@ -1,8 +1,5 @@
-.vscode/
-BetterServer.zip
-build-*/
-BetterServer/.vs
-BetterServer/bin
-BetterServer/obj
-ExeNet/bin
-ExeNet/obj
+.vs/
+out/
+build/
+build_android/
+/.cache/clangd/index
