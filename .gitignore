@@ -1,0 +1,9 @@
+.vscode/
+BetterServer.tar.gz
+build-*/
+BetterServer/.vs
+nul
+BetterServer/bin
+BetterServer/obj
+ExeNet/bin
+ExeNet/obj
