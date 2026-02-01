@@ -1,0 +1,5 @@
+.vs/
+out/
+build/
+build_android/
+/.cache/clangd/index
