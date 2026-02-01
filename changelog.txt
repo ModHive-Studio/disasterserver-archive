@@ -1,4 +1,10 @@
-\Version /330 (pre-release 1)~
+\Version /110~
 
--queue
-- anit shit
+-new stable net code 
+-public servers for 5 regions
+-new host panel with more options 
+-2 new maps
+-idle and balancing animations 
+-better waiting screen 
+-round summary 
+-several balance changes
